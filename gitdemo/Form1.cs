@@ -33,7 +33,7 @@ namespace gitdemo
             if(txtuser.Text != "admin" || txtpass.Text != "admin")
             {
                 MessageBox.Show("failed");
-            }
+            }   
             else
             {
                 MessageBox.Show("succseed");
